@@ -1,3 +1,4 @@
+#Chat GPTにて作成
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
